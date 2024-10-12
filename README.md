@@ -1,4 +1,4 @@
-TRABAJO PRACTICO N6 API REST COMPLETO
+Primer parcial, apliaremos
 
 
 Carolina Martinez, 48876
